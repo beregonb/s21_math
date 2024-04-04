@@ -96,4 +96,3 @@ The functions of the math.h library must be implemented (only those directly des
 - The total verifiable accuracy is 16 significant digits
 - Verifiable accuracy of the fractional part is up to 6 decimal places.
 
-💡 [Tap here](https://forms.yandex.ru/cloud/64181327c769f101564293de/) **to leave your feedback on the project**. Product Team really tries to make your educational experience better.
